@@ -1,0 +1,9 @@
+.git
+.github
+app
+docs
+client/node_modules
+client/dist
+server/.venv
+server/tests
+**/__pycache__
